@@ -66,7 +66,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Developer
 
-- Name: Hassan Raza
-- Domain: [hassanraza.net](https://hassanraza.net)
-- Contact: info@hassanraza.net
+- Name: Shahbaz Irfan
 
